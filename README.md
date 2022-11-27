@@ -17,8 +17,8 @@ print the reversed number.
 
 ## Program:
 ```
-Developed by: S.Sham Rathan
-Register no: 212221230093
+Developed by: Jaison Raphael.v
+Register no: 212221230038
 
 using System;
 namespace hello
